@@ -77,15 +77,15 @@ const Footer: React.FC = () => {
             <ul className="space-y-4">
               <li className="flex items-start">
                 <MapPin size={20} className="mr-2 mt-1 flex-shrink-0" />
-                <span>123 Tech Street, Digital City, 10101</span>
+                <span>Iyunga, Mbeya City</span>
               </li>
               <li className="flex items-center">
                 <Phone size={20} className="mr-2 flex-shrink-0" />
-                <span>+1 (555) 123-4567</span>
+                <span>+255 (74) 709-3528</span>
               </li>
               <li className="flex items-center">
                 <Mail size={20} className="mr-2 flex-shrink-0" />
-                <span>info@techgadget.com</span>
+                <span>mdmpazi@gmail.com</span>
               </li>
             </ul>
           </div>
